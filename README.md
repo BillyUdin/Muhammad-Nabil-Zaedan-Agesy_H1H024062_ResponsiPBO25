@@ -1,4 +1,6 @@
-# Muhammad-Nabil-Zaedan-Agesy_H1H024062_ResponsiPBO25
+Nama        :Muhammad Nabil Zaeddan Agesy 
+NIM         :H1H024062
+Shift baru  :C
 
 # 🎮 Pokémon Research & Training Center (PRTC)
 ## Sistem Simulasi Pelatihan Pokémon - Zubat Edition
@@ -243,4 +245,4 @@ Good luck, Trainer! Latih Zubat Anda menjadi lebih kuat! ⚡🦇
 
 **Version:** 1.0.0  
 **Last Updated:** 2024  
-**Status:** ✅ Stable & Ready to Use
+**Status:** ✅ Stable & Ready to Use    
