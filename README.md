@@ -245,6 +245,6 @@ Good luck, Trainer! Latih Zubat Anda menjadi lebih kuat! ⚡🦇
 
 **Version:** 1.0.0  
 **Last Updated:** 2024  
-**Status:** ✅ Stable & Ready to Use    
-! [Demo] (https://youtu.be/NeckP_3P7wo)
+**Status:** ✅ Stable & Ready to Use 
 
+link output web (https://youtu.be/NeckP_3P7wo) untuk video nya ada di demo.gif.gif
