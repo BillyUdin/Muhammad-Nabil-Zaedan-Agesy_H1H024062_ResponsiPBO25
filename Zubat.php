@@ -21,14 +21,7 @@ class Zubat extends Pokemon {
         $this->poisonLevel = 30;
     }
     
-    /**
-     * POLYMORPHISM: Override method train() dari parent
-     * Implementasi training khusus untuk Zubat
-     * 
-     * @param string $trainingType - Jenis latihan (Attack/Defense/Speed)
-     * @param int $intensity - Intensitas latihan (1-10)
-     * @return array - Hasil training
-     */
+
     public function train($trainingType, $intensity) {
         $oldLevel = $this->getLevel();
         $oldHp = $this->getHp();
@@ -78,12 +71,6 @@ class Zubat extends Pokemon {
         ];
     }
     
-    /**
-     * POLYMORPHISM: Override method specialMove() dari parent
-     * Implementasi jurus spesial Zubat
-     * 
-     * @return string - Deskripsi special move
-     */
     public function specialMove() {
         $moves = $this->getSpecialMoves();
         $randomMove = $moves[array_rand($moves)];
@@ -130,4 +117,5 @@ class Zubat extends Pokemon {
         return $baseStatus . " | Flight Speed: {$this->flightSpeed} | Poison Level: {$this->poisonLevel}";
     }
 }
+
 ?>
