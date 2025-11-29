@@ -8,14 +8,7 @@ abstract class Pokemon {
     protected $maxHp;
     protected $specialMoves;
     
-    /**
-     * Constructor
-     * @param string $name 
-     * @param string $type 
-     * @param int $level 
-     * @param int $hp 
-     * @param array $specialMoves 
-     */
+
     public function __construct($name, $type, $level, $hp, $specialMoves) {
         $this->name = $name;
         $this->type = $type;
@@ -85,3 +78,4 @@ abstract class Pokemon {
 }
 
 ?>
+
