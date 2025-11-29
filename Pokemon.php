@@ -56,7 +56,6 @@ abstract class Pokemon {
     
     protected function setHp($hp) {
         $this->hp = $hp;
-        // HP tidak boleh melebihi maxHp
         if ($this->hp > $this->maxHp) {
             $this->maxHp = $this->hp;
         }
@@ -84,4 +83,5 @@ abstract class Pokemon {
         return "{$this->name} (Type: {$this->type}) - Level {$this->level} - HP: {$this->hp}/{$this->maxHp}";
     }
 }
+
 ?>
