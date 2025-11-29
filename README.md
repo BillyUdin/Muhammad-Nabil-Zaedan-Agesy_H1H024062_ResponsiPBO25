@@ -246,5 +246,5 @@ Good luck, Trainer! Latih Zubat Anda menjadi lebih kuat! ⚡🦇
 **Version:** 1.0.0  
 **Last Updated:** 2024  
 **Status:** ✅ Stable & Ready to Use    
-! [Demo] (https://raw.githubusercontent.com/BillyUdin/Muhammad-Nabil-Zaedan-Agesy_H1H024062_ResponsiPBO25/main/demo.gif.gif)
-https://youtu.be/NeckP_3P7wo
+! [Demo] (https://youtu.be/NeckP_3P7wo)
+
