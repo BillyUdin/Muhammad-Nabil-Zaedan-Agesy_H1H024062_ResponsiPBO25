@@ -232,11 +232,6 @@ Paradigm: Object-Oriented Programming (OOP)
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk keperluan **edukasi** dan **pembelajaran**.
-
-
-https://github.com/user-attachments/assets/286f3146-d2ce-41c7-bf3a-aa071733692a
-
-
 ---
 
 ## 🎉 Selamat Berlatih!
@@ -251,4 +246,9 @@ Good luck, Trainer! Latih Zubat Anda menjadi lebih kuat! ⚡🦇
 **Last Updated:** 2024  
 **Status:** ✅ Stable & Ready to Use 
 
-link output web (https://youtu.be/NeckP_3P7wo) untuk video nya ada di demo.gif.gif ya kak
+Video nya:
+
+
+
+https://github.com/user-attachments/assets/8d9f84d9-3f46-41cb-8e44-3b97d496ae8d
+
