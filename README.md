@@ -233,6 +233,10 @@ Paradigm: Object-Oriented Programming (OOP)
 
 Proyek ini dibuat untuk keperluan **edukasi** dan **pembelajaran**.
 
+
+https://github.com/user-attachments/assets/286f3146-d2ce-41c7-bf3a-aa071733692a
+
+
 ---
 
 ## 🎉 Selamat Berlatih!
