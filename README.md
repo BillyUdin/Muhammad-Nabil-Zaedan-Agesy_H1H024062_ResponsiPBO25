@@ -246,3 +246,5 @@ Good luck, Trainer! Latih Zubat Anda menjadi lebih kuat! ⚡🦇
 **Version:** 1.0.0  
 **Last Updated:** 2024  
 **Status:** ✅ Stable & Ready to Use    
+
+<!-- Failed to upload "Video PBO.gif.gif" -->
